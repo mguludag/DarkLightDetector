@@ -1,5 +1,5 @@
 # DarkLightDetector
-Header-only Qt based very light Windows Dark/Light color mode detector.
+Header-only Qt based lightweight, Windows Dark/Light color mode detector.
 
 ## Usage
 ```C++
